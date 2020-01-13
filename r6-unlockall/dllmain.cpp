@@ -1,7 +1,7 @@
 #include <Windows.h>
 #include <iostream>
 #include <cstdint>
-constexpr ::std::ptrdiff_t function_off = 0x1138490;
+constexpr ::std::ptrdiff_t function_off = 0xCFA130;
 bool __stdcall dllthread(HMODULE hModule) {
 
 
